@@ -1,2 +1,2 @@
-# L-excellence-en-maths
+#l'excellence-en-maths
 plateforme de cours à distance
